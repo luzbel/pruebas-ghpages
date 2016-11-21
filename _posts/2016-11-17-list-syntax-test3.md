@@ -12,10 +12,10 @@ excerpt: "Probando bloques código en listas"
 2. second
   * 2.1
   * 2.2
- : {% highlight xml %}
+   : {% highlight xml %}
 <lpt>
  <by>
-  test
+  test2
  </by>
 </lpt>
 code
