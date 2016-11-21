@@ -13,7 +13,7 @@ excerpt: "Probando bloques código en listas"
 2. b  
   * 2.1
   * 2.2
-         ~~~ xml
+~~~ xml
          <tralari>
           prueba8b
          </tralari>
@@ -22,7 +22,7 @@ excerpt: "Probando bloques código en listas"
            RFEF
            </jk>
          </kk>
-         ~~~
+~~~
   * 2.3
 
 
