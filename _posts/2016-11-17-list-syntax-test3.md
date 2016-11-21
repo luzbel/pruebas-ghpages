@@ -10,6 +10,22 @@ excerpt: "Probando bloques código en listas"
 
 1. first
 2. second
+  * 2.1
+  * 2.2
+ : {% highlight xml %}
+<lpt>
+ <by>
+  test
+ </by>
+</lpt>
+code
+
+{% endhighlight %}
+  * 2.3
+3. third
+
+1. first
+2. second
  : {% highlight xml %}
 <lpt>
  <by>
