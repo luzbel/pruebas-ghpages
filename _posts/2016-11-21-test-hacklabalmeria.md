@@ -50,10 +50,10 @@ Y ahora, más díficil todavía, con el código en sublistas
   * 2.2
   * 2.3
 3. third. Funciona si no hay sublista
-``` bash
-echo Hola mundo 
-ls > /tmp/listadofichero
-```
+    ``` bash
+    echo Hola mundo 
+    ls > /tmp/listadofichero
+    ```
 4. fourth
 
 Y ahora, más díficil todavía, con el código en sublistas
