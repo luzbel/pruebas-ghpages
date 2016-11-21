@@ -8,6 +8,18 @@ tags:
 excerpt: "Probando bloques código en listas"
 ---
 
+1. first
+2. second
+ : {% highlight xml %}
+<lpt>
+ <by>
+  test
+ </by>
+</lpt>
+code
+
+{% endhighlight %}
+3. third
 
 1. a
 2. b  
