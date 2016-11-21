@@ -69,7 +69,7 @@ Y ahora, más díficil todavía, con el código en sublistas
   * 2.1
   * 2.2
 
-``` bash
+    ``` bash
     echo Hola mundo 
     ls > /tmp/listadofichero
     ```
