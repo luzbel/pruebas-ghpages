@@ -17,13 +17,13 @@ Este bloque de código XML fuera de una lista se ve bien
   * 2.2
   * 2.3
 3. third. Funciona si no hay sublista
-       ``` xml
-       <tag1>
-        <tag2>
-         mockvalue
-        </tag2>
-       </tag1>
-       ```
+   ``` xml
+   <tag1>
+    <tag2>
+     mockvalue
+    </tag2>
+   </tag1>
+   ```
 4. fourth
 
 Y ahora, más díficil todavía, con el código en sublistas
