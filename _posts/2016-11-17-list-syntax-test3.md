@@ -8,11 +8,37 @@ tags:
 excerpt: "Probando bloques código en listas"
 ---
 
+1. a
+2. b  
+  * 2.1
+  * 2.2
+       ```
+       <tralari>prueba8</t9ralari>
+       ```
+  * 2.3
+
 ``` xml
 <trufo>
  kk3
 </trufo>
 ```
+
+1. a
+2. b  
+  * 2.1
+  * 2.2
+       ```
+       <tralari>
+        prueba8
+       </tralari>
+       <kk>
+         <jk>
+         dfdf
+         </jk>
+       </kk>
+       ```
+  * 2.3
+
 
     <div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="nv">JEKYLL_ENV</span><span class="o">=</span>production bundle <span class="nb">exec </span>jekyll serve --port <span class="nv">$PORT</span> --host <span class="nv">$IP</span> --config _config.yml,_cloud9_config.yml
 <span class="nv">JEKYLL_ENV</span><span class="o">=</span>production bundle <span class="nb">exec </span>jekyll serve --port <span class="nv">$PORT</span> --host <span class="nv">$IP</span> --config _config.yml,_cloud9_config.yml
@@ -220,7 +246,6 @@ JEKYLL_ENV=production bundle exec jekyll serve --port $PORT --host $IP --config 
        ```
   * 2.3
 
-1
 1. a
 2. b  
   * 2.1
