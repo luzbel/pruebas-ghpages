@@ -13,9 +13,9 @@ excerpt: "Probando bloques código en listas"
 2. b  
   * 2.1
   * 2.2
-        ```
-        <tralari>prueba8</tralari>
-        ```
+         ```
+         <tralari>prueba8a</tralari>
+         ```
   * 2.3
 
 ``` xml
