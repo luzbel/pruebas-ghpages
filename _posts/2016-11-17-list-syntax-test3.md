@@ -7,14 +7,15 @@ tags:
   - gh-pages
 excerpt: "Probando bloques código en listas"
 ---
+¿funcionará alguna vez?
 
 1. a
 2. b  
   * 2.1
   * 2.2
-       ```
-       <tralari>prueba8</t9ralari>
-       ```
+        ```
+        <tralari>prueba8</tralari>
+        ```
   * 2.3
 
 ``` xml
@@ -27,16 +28,16 @@ excerpt: "Probando bloques código en listas"
 2. b  
   * 2.1
   * 2.2
-       ```
-       <tralari>
-        prueba8
-       </tralari>
-       <kk>
-         <jk>
-         dfdf
-         </jk>
-       </kk>
-       ```
+        ```
+        <tralari>
+         prueba8
+        </tralari>
+        <kk>
+          <jk>
+          dfdf
+          </jk>
+        </kk>
+        ```
   * 2.3
 
 
