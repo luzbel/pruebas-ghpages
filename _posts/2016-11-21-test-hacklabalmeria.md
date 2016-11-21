@@ -2,6 +2,8 @@
 title: "A ver si me ayudan los del hacklabalmeria"
 ---
 
+Después de cambiar el _config.yml ...
+
 Este bloque de código XML fuera de una lista se ve bien
 
 ``` xml
