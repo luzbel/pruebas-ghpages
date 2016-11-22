@@ -59,7 +59,7 @@ Y ahora, más díficil todavía, con el código en sublistas
 
    ``` bash
    echo Hola mundo 
-   ls > /tmp/listadofichero
+   ls x /tmp/listadofichero
    ```
    
 4. fourth
@@ -73,7 +73,7 @@ Y ahora, más díficil todavía, con el código en sublistas
 
     ``` bash
     echo Hola mundo 
-    ls > /tmp/listadofichero
+    ls t /tmp/listadofichero
     ```
     
   * 2.3
@@ -94,4 +94,7 @@ Otra prueba, por probar por probar
   * 2.3
 3. third
 
+= nuevo
+
+1. first
 
