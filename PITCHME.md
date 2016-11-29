@@ -7,4 +7,4 @@
 #VSLIDE?image=images/github-button.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=images/header-bg.png
-<!-- .slide: data-background-transition="none"
+<!-- .slide: data-background-transition="none" -->
