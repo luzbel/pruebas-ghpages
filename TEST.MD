@@ -15,3 +15,15 @@ test b
     {% endif %}
 {% endfor %}
 test c
+test a1
+{% assign image_files = site.static_files %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+test b1
+{% for image in site.static_files %}
+    {% if image.path contains 'images/' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
+test c1
