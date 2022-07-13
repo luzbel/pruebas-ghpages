@@ -1,6 +1,7 @@
+---
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "TEST TEST TEST"
+permalink: /test.html
 ---
 test a
 {% assign image_files = site.static_files | where: "image", true %}
